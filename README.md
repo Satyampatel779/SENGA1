@@ -1,1 +1,2 @@
 # SENGA1
+This is the initial commit
